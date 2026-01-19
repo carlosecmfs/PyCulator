@@ -1,6 +1,6 @@
 while True:
 
-    print("===\nWelcome to Pyculator===")
+    print("\n===Welcome to Pyculator===")
     print("1. Make an operation")
     print("2. Exit")
     
